@@ -18,6 +18,10 @@
   </h3>
   <li>clonar o repositório</li>
   <li>baixar a base de dados</li>
+  <sub>
+  As bases de dados foram retiradas do site kaggle:
+  https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro <br />
+  </sub>
   <li>ter anaconda instalado</li>
   <li>ter streamlit instalado no anaconda</li>
   <li>acessar o Anaconda Prompt</li>
@@ -70,10 +74,7 @@
 
 <br /><br />
 <br />
-<sub>
-  As bases de dados foram retiradas do site kaggle:
-  https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro <br />
-</sub>
+
 
 <sub>
   projeto desenvolvido durante minha certificação de python na hashtag
